@@ -1,0 +1,6 @@
+{
+    "name": "Bookmark Shortener Extension",
+    "version": "0.1",
+    "description": "Simple bookmark extension for chrome to display only its favicon",
+    "manifest_version": 2
+  }
